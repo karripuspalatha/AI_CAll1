@@ -2,3 +2,4 @@ Flask
 Twilio
 python-dotenv
 google-generativeai
+gunicorn
